@@ -40,10 +40,10 @@ An **IDE** (Integrated Development Environment) or code editor is where you writ
 
 Beginner-friendly options:
 
-* **VS Code** — Lightweight, cross-platform, and highly recommended.
-* **PyCharm Community** — Excellent Python support and debugging tools.
-* **Thonny** — Extremely beginner-friendly; tailored for teaching Python.
-* **Jupyter Notebook / JupyterLab** — Interactive environment popular in data science.
+* **[VS Code](https://code.visualstudio.com/)** — Lightweight, cross-platform, and highly recommended.
+* **[PyCharm Community](https://www.jetbrains.com/pycharm/download/)** — Excellent Python support and debugging tools.
+* **[Thonny](https://thonny.org/)** — Extremely beginner-friendly; tailored for teaching Python.
+* **[Jupyter Notebook / JupyterLab](https://jupyter.org/)** — Interactive environment popular in data science.
 
 👉 If you’re unsure, start with **VS Code**.
 
@@ -63,7 +63,7 @@ Anaconda bundles Python with many popular packages (NumPy, pandas, matplotlib, J
 
 **Download & install (quick):**
 
-1. Visit the Anaconda download page and choose the installer for your OS.
+1. Visit the [Anaconda distribution page](https://www.anaconda.com/products/distribution) and choose the installer for your OS.
 2. Run the installer and follow prompts. On Windows you can use Anaconda Prompt or allow conda on PATH.
 3. Verify installation:
 
@@ -103,7 +103,7 @@ Git is a version control system. It tracks changes to files over time so you can
 
 **Download & install (quick):**
 
-1. Download Git from [https://git-scm.com/](https://git-scm.com/) or install via your OS package manager.
+1. Download Git from [git-scm.com](https://git-scm.com/) or install via your OS package manager.
 2. Verify:
 
 ```bash
@@ -150,7 +150,7 @@ Docker is optional for small beginner projects. Learn it after you’re comforta
 
 **Download & install (quick):**
 
-1. Install **Docker Desktop** (Windows/macOS) or Docker Engine (Linux).
+1. Install **Docker Desktop** (Windows/macOS) or Docker Engine (Linux). Get it from the official Docker site: [Docker Get Started](https://www.docker.com/get-started).
 2. Verify:
 
 ```bash
@@ -188,10 +188,10 @@ docker run -p 5000:5000 myapp
 
 ## Quick checklist
 
-* [ ] IDE installed (e.g., VS Code)
-* [ ] Anaconda installed (`conda --version`)
-* [ ] Git installed & configured (`git --version` and `git config --global ...`)
-* [ ] Docker installed if needed (`docker --version`)
+* [ ] IDE installed (e.g., [VS Code](https://code.visualstudio.com/))
+* [ ] Anaconda installed (`conda --version`) — [Anaconda distribution](https://www.anaconda.com/products/distribution)
+* [ ] Git installed & configured (`git --version` and `git config --global ...`) — [Git downloads](https://git-scm.com/)
+* [ ] Docker installed if needed (`docker --version`) — [Docker Get Started](https://www.docker.com/get-started)
 
 ---
 
@@ -201,8 +201,6 @@ docker run -p 5000:5000 myapp
 * **Anaconda / conda** — a distribution that packages Python, common libraries, and an environment manager (useful for data science and dependency management).
 * **Git** — a tool that tracks changes to files and helps you collaborate and manage history.
 * **Docker** — packages your app and its environment so it runs consistently anywhere.
-
----
 
 
 *Happy coding!* 🚀
