@@ -37,16 +37,6 @@ This repository contains short, interactive Python scripts designed for teaching
 
 ---
 
-## Step 0: Download an IDE
-
-Before running the scripts, install an **IDE (Integrated Development Environment)** or code editor where you can write and run Python easily. The most common beginner-friendly options:
-
-- **[VS Code](https://code.visualstudio.com/)** — Free, lightweight, cross-platform. Highly recommended.
-- **[PyCharm Community](https://www.jetbrains.com/pycharm/download/)** — Great for learning Python with powerful debugging tools.
-- **[Thonny](https://thonny.org/)** — Extremely beginner-friendly, designed for teaching.
-- **[Jupyter Notebook](https://jupyter.org/)** — Interactive, popular for data science, but also nice for experimenting with small code snippets.
-
-👉 If unsure, start with **VS Code** — it’s widely used, integrates with Git, and has excellent Python support.
 
 
 ## How to run
